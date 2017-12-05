@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/menu_legalnotices" android:showAsAction="never" android:orderInCategory="100" android:id="@+id/menu_legalnotices"/>
+
+</menu>
